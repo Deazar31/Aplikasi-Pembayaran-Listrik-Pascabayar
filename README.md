@@ -1,6 +1,6 @@
 # Aplikasi Pembayaran Listrik Pasca Bayar
 
-![Tampilan Home](png/tampilan awal%20.png)
+![Tampilan Home](png/tampilan awal.png)
 
 
 
@@ -45,4 +45,5 @@ Contoh:
 ## Lisensi
 
 Proyek ini dibuat Sebagai Media Pembelajaran dan tidak digunakan untuk tujuan komersial.
+
 
