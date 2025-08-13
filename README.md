@@ -1,11 +1,5 @@
 # Aplikasi Pembayaran Listrik Pasca Bayar
 
-[Tampilan Home](png/tampilan awal.png)
-
-
-
----
-
 ## Fitur Utama
 
 - *Login Admin & Pelanggan*
@@ -45,6 +39,7 @@ Contoh:
 ## Lisensi
 
 Proyek ini dibuat Sebagai Media Pembelajaran dan tidak digunakan untuk tujuan komersial.
+
 
 
 
